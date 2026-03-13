@@ -1,6 +1,6 @@
 ## Hi I'm Luis Diego 👋
 
-🔭 I'm currently working as Technical Support Engineer at monday.com.<br>🌱 I'm studying Full Stack Development.<br>👯 I'm looking to increase my knowledge in code, and collaborate on that area.
+🔭 I'm currently working as a SaaS Developer Jr at Transactel S.A.<br>🌱 I'm studying Full Stack Development.<br>👯 I'm looking to increase my knowledge in code, and collaborate on that area.
 
 
 ## 🌐 Socials:
